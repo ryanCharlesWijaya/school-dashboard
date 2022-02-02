@@ -93,7 +93,45 @@
                     <h1 class="m-0">2021 : Total Collection Progress as At Month of May</h1>
                 </div>
                 <div class="card-body">
-                    <div id="kt_apexcharts_4"></div>
+                    <div class="row">
+                        <div class="col-4">
+                            <div id="kt_apexcharts_4"></div>
+                        </div>
+                        <div class="col-8">
+                            <div class="row">
+                                <div class="col-4">
+                                    <div class="card">
+                                        <div class="card-body px-0">
+                                            <div class="bg-dark p-4">
+                                                <h6 class="fw-light text-light">Total Registered Student (2021)</h6>
+                                                <span><h1 class="text-white">2000<span class="fs-5 fw-bold ms-2">Student</span></h1></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-4">
+                                    <div class="card">
+                                        <div class="card-body px-0">
+                                            <div class="bg-dark p-4">
+                                                <h6 class="fw-light text-light">Total Registered Student (2021)</h6>
+                                                <span><h1 class="text-white">2000<span class="fs-5 fw-bold ms-2">Student</span></h1></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-4">
+                                    <div class="card">
+                                        <div class="card-body px-0">
+                                            <div class="bg-dark p-4">
+                                                <h6 class="fw-light text-light">Total Registered Student (2021)</h6>
+                                                <span><h1 class="text-white">2000<span class="fs-5 fw-bold ms-2">Student</span></h1></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
